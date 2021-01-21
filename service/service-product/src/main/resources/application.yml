@@ -1,0 +1,9 @@
+server:
+  port: 8080
+
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://rm-wz9s4a2w616362s51125010lm.mysql.rds.aliyuncs.com:3306/small_product?serverTimezone=CST&characterEncoding=utf-8&useSSL=false
+    username: cyberangel
+    password: lxm093016@
